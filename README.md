@@ -97,8 +97,8 @@ The header stores the information we need. Charset tells the webpage which chara
 Create a simple website that links to three recipes that can be navigated to using a simple interface. The website should be viewable through Github link integration. <br>
 To use GitHub link integration:
 <ol>
-<li> The main hubpage needs to be named index.html
-<li> On GitHub, go to your repo and click <strong>Settings</strong> -> <strong>Pages</strong>
-<li> Change the source from <em>none</em> to <em>main branch</em> and click <strong>Save</strong>.
-<li> It may take up to 10 minutes, but the website should be viewable from <code>your-github-username.github.io/your-github-repo-name</code>
+    <li> The main hubpage needs to be named index.html
+    <li> On GitHub, go to your repo and click <strong>Settings</strong> -> <strong>Pages</strong>
+    <li> Change the source from <em>none</em> to <em>main branch</em> and click <strong>Save</strong>.
+    <li> It may take up to 10 minutes, but the website should be viewable from <code>your-github-username.github.io/your-github-repo-name</code>
 </ol>
