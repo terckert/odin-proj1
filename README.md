@@ -1,8 +1,6 @@
 # Simple Recipe Website - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes) - Project 1
 ## Section Review
-----
-<br><br>
-### Basic Outline for a website
+### Basic Outline for a Website
 ----
 ```html
 <!-- DOCTYPE html and </html> signify the beginning and ending of the -->
